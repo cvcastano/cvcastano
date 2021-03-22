@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-DD0031?style=flat-square&logo=postman&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=CC6699)
 ![CSS](https://img.shields.io/badge/-CSS3-orange?style=flat-square&logo=css3&logoColor=blue)
 ![html5](https://img.shields.io/badge/-HTML5-grey?style=flat-square&logo=html5&logoColor=E34F26)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=green)
