@@ -2,7 +2,6 @@
 ### Hi there 👋
 
 
-<a href="https://twitter.com/cvcastano" ><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /> </a>
 
 ### What I code with:
 ![VSCode](https://img.shields.io/badge/-VSCode-grey?style=flat-square&logo=visual-studio-code&logoColor=blue)
@@ -19,6 +18,10 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Express JS](https://img.shields.io/badge/-ExpressJS-43853d?style=flat-square&logo=express&logoColor=black)
+
+### Where to find me:
+![](https://img.shields.io/twitter/follow/cvcastano.svg?style=social)
+
 
 
 
