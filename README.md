@@ -1,4 +1,7 @@
 # Page in progress
+![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
+
+
 ### Hi there 👋
 <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /></a>
 
