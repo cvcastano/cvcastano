@@ -14,7 +14,7 @@
 ![html5](https://img.shields.io/badge/-HTML5-grey?style=flat-square&logo=html5&logoColor=E34F26)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=green)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-E10098?style=flat-square&logo=sql&logoColor=darkblue)
+![SQLite](https://img.shields.io/badge/-SQLite-E10098?style=flat-square&logo=sqlite&logoColor=darkblue)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Express JS](https://img.shields.io/badge/-ExpressJS-43853d?style=flat-square&logo=express&logoColor=black)
