@@ -1,6 +1,6 @@
 # Page in progress
 ### Hi there 👋
-
+<a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /></a>
 
 
 ### What I code with:
@@ -20,8 +20,11 @@
 ![Express JS](https://img.shields.io/badge/-ExpressJS-43853d?style=flat-square&logo=express&logoColor=black)
 
 ### Where to find me:
-<a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /> </a>
 
+
+<a href="https://www.linkedin.com/in/carolina-castano/" target="_blank"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/cvcastano" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/cvcastano" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 
 
