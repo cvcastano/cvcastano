@@ -28,9 +28,13 @@ in the process of redirecting my professional career towards web development.
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Express JS](https://img.shields.io/badge/-ExpressJS-dd3a9b?style=flat-square&logo=express&logoColor=black)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cvcastano&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcastano&layout=compact&theme=radical)](https://github.com/cvcastano/github-readme-stats)
+
+
+
+
 ### Where to find me:
-
-
 <a href="https://www.linkedin.com/in/carolina-castano/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/cvcastano"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.instagram.com/cvcastano"><img alt="Instagram" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
