@@ -20,7 +20,7 @@
 ![Express JS](https://img.shields.io/badge/-ExpressJS-43853d?style=flat-square&logo=express&logoColor=black)
 
 ### Where to find me:
-![](https://img.shields.io/twitter/follow/cvcastano.svg?style=social)
+<a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /> </a>
 
 
 
