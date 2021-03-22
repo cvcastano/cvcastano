@@ -27,6 +27,7 @@ in the process of redirecting my professional career towards web development.
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Express JS](https://img.shields.io/badge/-ExpressJS-dd3a9b?style=flat-square&logo=express&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-darkpurple?style=flat-square&logo=windows&logoColor=white)
 
 
 ### GitHub Stats:
