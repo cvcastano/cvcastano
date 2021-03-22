@@ -1,6 +1,12 @@
 # Page in progress
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
+```javascript
+Hello there!, this is Caro, an open-minded traveller who is driven by inspiration and has little trouble with change.   
+I've studied teaching and administration and finance and, right now, I'm  
+in the process of redirecting my professional career towards web development. 
 
+
+```
 
 ### Hi there 👋
 <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /></a>
@@ -31,10 +37,11 @@
 <a href="https://twitter.com/cvcastano"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 
+If you liked this ✨ _special_ ✨ repository, please do not forget to star it.
 
 
 <!--
-**cvcastano/cvcastano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cvcastano/cvcastano** is a  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
