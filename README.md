@@ -28,6 +28,8 @@ in the process of redirecting my professional career towards web development.
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Express JS](https://img.shields.io/badge/-ExpressJS-dd3a9b?style=flat-square&logo=express&logoColor=black)
 
+
+### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cvcastano&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcastano&layout=compact&theme=radical)](https://github.com/cvcastano/github-readme-stats)
 
