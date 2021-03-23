@@ -57,9 +57,8 @@ let Caro = {
 💬 Ask me about ... ,
 }
 ```
- ### Certifications
-FrontEnd Developer at <a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a>
-
+ ### Certifications   
+<a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a> : Front-end Developer
 
 
 ### GitHub Stats:
