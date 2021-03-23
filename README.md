@@ -8,7 +8,7 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /></a>
 
 
-### What I use to code:
+### What I use to code, create and comunicate:
 ![VSCode](https://img.shields.io/badge/-VSCode-grey?style=flat-square&logo=visual-studio-code&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)
@@ -25,12 +25,7 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 ![Express JS](https://img.shields.io/badge/-ExpressJS-dd3a9b?style=flat-square&logo=express&logoColor=black)
 ![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-darkpurple?style=flat-square&logo=windows&logoColor=white)
-
-
-### create:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-darkblue?style=flat-square&logo=adobephotoshop&logoColor=white)
-
-### and else:
 ![Slack](https://img.shields.io/badge/-Slack-a4154b?style=flat-square&logo=slack&logoColor=white)
 ![StackOverflow](https://img.shields.io/badge/-StackOverflow-f58025?style=flat-square&logo=stackoverflow&logoColor=white)
 
