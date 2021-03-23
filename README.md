@@ -25,7 +25,7 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 ![Express JS](https://img.shields.io/badge/-ExpressJS-dd3a9b?style=flat-square&logo=express&logoColor=black)
 ![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-darkpurple?style=flat-square&logo=windows&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-darkblue?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-darkblue?style=flat-square&logo=adobe&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-a4154b?style=flat-square&logo=slack&logoColor=white)
 ![StackOverflow](https://img.shields.io/badge/-StackOverflow-f58025?style=flat-square&logo=stackoverflow&logoColor=white)
 
