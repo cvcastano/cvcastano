@@ -57,10 +57,9 @@ Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https:
 <a href="https://twitter.com/cvcastano"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 
-If you liked this ✨ _special_ ✨ repository, please do not forget to star it.
-
 #### References:
 - The powerful [Shields.io](https://shields.io/) API and website.
 - Emojis from [Emojipedia](https://emojipedia.org/).
 - Icons from [SimpleIcons](https://simpleicons.org/)
 
+If you liked this ✨ _special_ ✨ repository, please do not forget to star it.
