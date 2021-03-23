@@ -1,6 +1,6 @@
 # Page in progress
 
-### Hi there 👋
+### Hi there 👋                          <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
 
 I am Carolina, Caro for my friends, an open-minded traveller who is driven by ``inspiration`` and enjoys ``change``.  
@@ -8,7 +8,7 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 I'm currently searching for my first job as a front end developer.
 
 
-<a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /></a>
+
 
 
 
