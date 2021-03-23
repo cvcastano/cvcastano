@@ -2,7 +2,7 @@
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
 
 Hello there!, I am Carolina, Caro for friends, an open-minded traveller who is driven by ``inspiration`` and enjoys ``change``.  
-I've studied teaching and administration and finance and, right now, I'm in the process of redirecting my professional career towards ``web development``. 
+I've studied teaching and administration and finance and, right now, I'm in the process of redirecting my professional career towards ``web development``.   
 I'm currently searching for my first job as a front end developer.
 
 ### Hi there 👋
@@ -12,6 +12,8 @@ I'm currently searching for my first job as a front end developer.
 
 ### Things I am learning and tools I am using:  (Front-end, Back-end, Programming Languages, (or code) Design, Tools, Comunication, Agile(work methodology), Other languages...)
 ### What I use to code, create and comunicate:
+
+
 ![VSCode](https://img.shields.io/badge/-VSCode-grey?style=flat-square&logo=visual-studio-code&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)
@@ -56,7 +58,7 @@ let Caro = {
 }
 ```
  ### Certifications
- FrontEnd Developer at <a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a>
+<sup> FrontEnd Developer at</sup> <a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a>
 
 
 
