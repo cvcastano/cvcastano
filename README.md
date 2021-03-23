@@ -1,13 +1,16 @@
 # Page in progress
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
 
-Hello there!, this is Caro, an open-minded traveller who is driven by ``inspiration`` and enjoys ``change``.  
+Hello there!, I am Carolina, Caro for friends, an open-minded traveller who is driven by ``inspiration`` and enjoys ``change``.  
 I've studied teaching and administration and finance and, right now, I'm in the process of redirecting my professional career towards ``web development``. 
+I'm currently searching for my first job as a front end developer.
 
 ### Hi there 👋
 <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" /></a>
 
 
+
+### Things I am learning and tools I am using:  (Front-end, Back-end, Programming Languages, (or code) Design, Tools, Comunication, Agile(work methodology), Other languages...)
 ### What I use to code, create and comunicate:
 ![VSCode](https://img.shields.io/badge/-VSCode-grey?style=flat-square&logo=visual-studio-code&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=yellow)
@@ -29,10 +32,31 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 ![Slack](https://img.shields.io/badge/-Slack-a4154b?style=flat-square&logo=slack&logoColor=white)
 ![StackOverflow](https://img.shields.io/badge/-StackOverflow-f58025?style=flat-square&logo=stackoverflow&logoColor=white)
 
+<!--
+![](https://img.shields.io/badge/-     -31a8ff?style=flat-square&logo=      &logoColor=white)
+![](https://img.shields.io/badge/-     -00eace?style=flat-square&logo=      &logoColor=white)
+-->
 
 
-00eace
-31a8ff
+### Some of my projects:
+group projects, individual projects, personal projects...
+
+
+### A little more about me:
+```javascript
+let Caro = {
+😄 pronouns: "she" | "her",
+  softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability" ]
+⚡ Fun fact: ... ,
+🔭 I’m currently working on developing my skills from home,
+🌱 I’m currently learning ... ,
+👯 I’m looking to collaborate on ... ,
+🤔 I’m looking for help with ... ,
+💬 Ask me about ... ,
+}
+```
+ ### Certifications
+ FrontEnd Developer at <a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a>
 
 
 
@@ -43,7 +67,7 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 
 
 
-### Where to find me:
+### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/carolina-castano/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/cvcastano"><img alt="Instagram" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/cvcastano"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -54,17 +78,4 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 If you liked this ✨ _special_ ✨ repository, please do not forget to star it.
 
 
-<!--
-**cvcastano/cvcastano** is a  repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
