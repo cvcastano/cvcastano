@@ -1,16 +1,16 @@
 # Page in progress
 
-### Hi there 👋                          <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
+### Hi there 👋, I am Carolina, Caro for my friends  <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
-
-I am Carolina, Caro for my friends, an open-minded traveller who is driven by ``inspiration`` and enjoys ``change``.  
+I’ve lived in many places, travelled broadly and worked in different environments which has made me an open-minded adaptable person who enjoys change for its opportunities and sees other opinions as new approaches. I am driven by ``inspiration``.  
 I've studied teaching and administration and finance and, right now, I'm in the process of redirecting my professional career towards ``web development``.   
 I'm currently searching for my first job as a front end developer.
 
 
+
 ### Things I am learning and tools I am using: 
 
-| 👩‍💻 ...Code... | 🛠️ ...Tools...| 📢 ...Communication...| 📐 ...Design...| 🐆 ...Work Methodology...| 🦄 ...Other... |
+| 👩‍💻<br> ...Code... | 🛠️<br> ...Tools...| 📢<br> ...Communication...| 📐<br> ...Design...| 🐆<br> ...Work Methodology...| 🦄<br> ...Other... |
 | --- | ----- | ----------- | ----------| --------  | --------|
 |![Sass](https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=CC6699) ![CSS](https://img.shields.io/badge/-CSS3-orange?style=flat-square&logo=css3&logoColor=blue) ![html5](https://img.shields.io/badge/-HTML5-grey?style=flat-square&logo=html5&logoColor=E34F26) ![SQLite](https://img.shields.io/badge/-SQLite-pink?style=flat-square&logo=sqlite&logoColor=blue)![Express JS](https://img.shields.io/badge/-ExpressJS-dd3a9b?style=flat-square&logo=express&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=yellow) ![NodeJS](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=green) ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=black) ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)                                                                              |  ![VSCode](https://img.shields.io/badge/-VSCode-grey?style=flat-square&logo=visual-studio-code&logoColor=blue)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-DD0031?style=flat-square&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white) ![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-darkpurple?style=flat-square&logo=windows&logoColor=white)               | ![Slack](https://img.shields.io/badge/-Slack-a4154b?style=flat-square&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/-Zoom-006699?style=flat-square&logo=zoom&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github&logoColor=black)                   | ![Photoshop](https://img.shields.io/badge/-Photoshop-darkblue?style=flat-square&logo=adobe&logoColor=white)    | ![Scrum](https://img.shields.io/badge/-Scrum-yellow?style=flat-square&logo=scrum&logoColor=white)|            ![StackOverflow](https://img.shields.io/badge/-StackOverflow-f58025?style=flat-square&logo=stackoverflow&logoColor=white) 
 
