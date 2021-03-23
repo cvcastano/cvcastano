@@ -61,4 +61,6 @@ If you liked this ✨ _special_ ✨ repository, please do not forget to star it.
 
 #### References:
 - The powerful [Shields.io](https://shields.io/) API and website.
+- Emojis from [Emojipedia](https://emojipedia.org/).
+- Icons from [SimpleIcons](https://simpleicons.org/)
 
