@@ -1,10 +1,10 @@
 # Page in progress
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
 ```javascript
-Hello there!, this is Caro, an open-minded traveller <br> 
-who is driven by inspiration and enjoys change. <br> 
-I've studied teaching and administration and finance <br> 
-and, right now, I'm in the process of <br>
+Hello there!, this is Caro, an open-minded traveller 
+who is driven by inspiration and enjoys change. 
+I've studied teaching and administration and finance
+and, right now, I'm in the process of
 redirecting my professional career towards web development. 
 
 
