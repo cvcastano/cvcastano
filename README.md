@@ -23,6 +23,7 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Express JS](https://img.shields.io/badge/-ExpressJS-dd3a9b?style=flat-square&logo=express&logoColor=black)
+![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-darkpurple?style=flat-square&logo=windows&logoColor=white)
 
 
