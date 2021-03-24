@@ -47,8 +47,6 @@ Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcastano&layout=compact&theme=radical)](https://github.com/cvcastano/github-readme-stats)
 
 
-
-
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/carolina-castano/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/cvcastano"><img alt="Instagram" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -60,6 +58,7 @@ Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https:
 #### References:
 - The powerful [Shields.io](https://shields.io/) API and website.
 - Emojis from [Emojipedia](https://emojipedia.org/).
-- Icons from [SimpleIcons](https://simpleicons.org/)
+- Icons from [SimpleIcons](https://simpleicons.org/).
+- [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for info about the stats.
 
 <!-- [If you liked this ✨ _special_ ✨ repository, please do not forget to star it.](url)-->
