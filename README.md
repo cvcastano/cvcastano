@@ -62,4 +62,4 @@ Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https:
 - Emojis from [Emojipedia](https://emojipedia.org/).
 - Icons from [SimpleIcons](https://simpleicons.org/)
 
-If you liked this ✨ _special_ ✨ repository, please do not forget to star it.
+<!-- [If you liked this ✨ _special_ ✨ repository, please do not forget to star it.](url)-->
