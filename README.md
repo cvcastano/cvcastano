@@ -22,7 +22,10 @@ I'm currently searching for my first job as a ``front end developer``.
 
 
 ### Some of my projects:
-<a href="https://github.com/cvcastano/look-like-loop-cards"><img img alt="look like loop logo" src="https://github.com/Adalab/project-promo-l-module-3-team-3/blob/dev/src/images/Logo_cards.png" height=50px /></a> Refactoring of code, JavaScript to React, and development of my very first server. Based on a fully functional project with legacy code.  
+<a href="https://github.com/cvcastano/look-like-loop-cards"><img img alt="look like loop logo" src="https://github.com/Adalab/project-promo-l-module-3-team-3/blob/dev/src/images/Logo_cards.png" height=50px /></a>  
+Refactoring of code, JavaScript to React, and development of my very first server. Based on a fully functional project with legacy code.  
+
+
 <a href="https://github.com/cvcastano/tree-huggers-cards"><img img alt="tree huggers logo" src="https://github.com/Adalab/project-promo-l-module-2-team-6/raw/master/src/images/logo-treehuggers.png" height=50px /></a> Responsive app to make interactive customizable business cards. Developped with JavaScript.  
 <a href="https://github.com/cvcastano/rick-and-morty-character-finder"><img img alt="Rick and Morty logo" src="https://github.com/Adalab/modulo-3-evaluacion-final-cvcastano/raw/master/src/images/logo.png" height=50px /></a> Responsive app with a list of Rick & Morty characters, which can be filtered by its characteristics. Developped with React.  
 <a href="https://github.com/cvcastano/anonymous-proxy"><img img alt="beating heart, logo of Anonymous Proxy" src="https://github.com/Adalab/modulo-1-evaluacion-final-cvcastano/raw/master/src/images/beating-heart.gif" height=50px /></a>  Responsive web designed with HTML5 y CSS3.    
