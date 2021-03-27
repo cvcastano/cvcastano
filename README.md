@@ -41,7 +41,7 @@ Anonymous Proxy. Responsive web designed with HTML5 y CSS3.
 <a href="https://github.com/cvcastano/BEcodeTIFUL"><img img alt="Becodetiful logo" src="https://github.com/Adalab/project-promo-l-module-1-team-8/raw/master/src/images/logo_readme.png" height=50px /></a>      
 Responsive web designed with HTML5 y CSS3 with which we introduce ourselves as a team into the world of development.  
 
-
+<!--
 ### A little more about me:
 ```javascript
 let Caro = {
@@ -55,6 +55,7 @@ let Caro = {
 💬 Ask me about ... ,
 }
 ```
+-->
  ### Certifications  
 Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a>
 
