@@ -35,7 +35,7 @@ Responsive app with a list of Rick & Morty characters, which can be filtered by 
 <p>&nbsp;</p>
 
 <a href="https://github.com/cvcastano/anonymous-proxy"><img img alt="beating heart, logo of Anonymous Proxy" src="https://github.com/Adalab/modulo-1-evaluacion-final-cvcastano/raw/master/src/images/beating-heart.gif" height=50px /></a>    
-Responsive web designed with HTML5 y CSS3.   
+Anonymous Proxy. Responsive web designed with HTML5 y CSS3.   
 <p>&nbsp;</p>
 
 <a href="https://github.com/cvcastano/BEcodeTIFUL"><img img alt="Becodetiful logo" src="https://github.com/Adalab/project-promo-l-module-1-team-8/raw/master/src/images/logo_readme.png" height=50px /></a>      
