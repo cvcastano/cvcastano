@@ -22,7 +22,12 @@ I'm currently searching for my first job as a ``front end developer``.
 
 
 ### Some of my projects:
-#### [Lolies Cards](https://github.com/cvcastano/look-like-loop-cards). Refactoring of code, JavaScript to React and development of my very first server. Based on a functional project with legacy code.
+<a href="https://github.com/cvcastano/look-like-loop-cards"><img img alt="look like loop logo" src="https://github.com/Adalab/project-promo-l-module-3-team-3/blob/dev/src/images/Logo_cards.png" width=80px /></a> Refactoring of code, JavaScript to React and development of my very first server. Based on a functional project with legacy code.
+<a href=""><img img alt="" src="" /></a>
+<a href=""><img img alt="" src="" /></a>
+
+
+#### ![](). 
 #### [TreeHuggers Card Generator](https://github.com/cvcastano/tree-huggers-cards). Responsive app developped with JavaScript.
 #### [Rick & Morty Character Finder](https://github.com/cvcastano/rick-and-morty-character-finder). Responsive app developped with React.
 #### [Anonymous Proxy](https://github.com/cvcastano/anonymous-proxy). Responsive web designed with HTML5 y CSS3.
