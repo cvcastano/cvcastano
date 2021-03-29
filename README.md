@@ -1,6 +1,4 @@
-# Page in progress
-
-### Hi there 👋, I am Carolina, Caro for my friends  <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
+## Hi there 👋, I am Carolina, Caro for my friends  <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
 I’ve lived in many places, travelled broadly and worked in different environments.  
 That might be why I am an ``open-minded``, ``adaptable`` person who ``enjoys change`` for its opportunities and sees other opinions as new approaches.   
@@ -8,7 +6,7 @@ I've studied teaching and administration and finance and, right now, I'm in the 
 I'm currently searching for my first job as a ``front end developer``.
 
 
-### Things I am learning and tools I am using: 
+## Things I am learning and tools I am using: 
 
 | 👩‍💻<br> ...Code... | 🛠️<br> ...Tools...| 📢<br> ...Communication...| 📐<br> ...Design...| 🐆<br> ...Work Methodology...| 🦄<br> ...Other... |
 | --- | ----- | ----------- | ----------| --------  | --------|
@@ -20,8 +18,23 @@ I'm currently searching for my first job as a ``front end developer``.
 ![](https://img.shields.io/badge/-     -00eace?style=flat-square&logo=      &logoColor=white)
 -->
 
+## A little more about me:
+```javascript
+let Caro = {
+😄 pronouns: "she" | "her",
+  softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability" ]
+🔭 I’m currently working on: developing my skills from home
+}
+```
+<!--
+⚡ Fun fact: ... ,
+🌱 I’m currently learning: 
+👯 I’m looking to collaborate on ... ,
+🤔 I’m looking for help with ... ,
+💬 Ask me about ... ,
+-->
 
-### Some of my projects:
+## Some of my projects:
 <a href="https://github.com/cvcastano/look-like-loop-cards"><img img alt="look like loop logo" src="https://github.com/Adalab/project-promo-l-module-3-team-3/blob/dev/src/images/Logo_cards.png" height=50px /></a>  
 Look Like Loop Cards. Responsive app to make interactive customizable business cards. Refactoring of code, JavaScript to React, and development of my very first server. Based on a fully functional project with legacy code.  
 <a href="https://github.com/cvcastano/tree-huggers-cards"><img img alt="tree huggers logo" src="https://github.com/Adalab/project-promo-l-module-2-team-6/raw/master/src/images/logo-treehuggers.png" height=50px /></a>    
@@ -33,31 +46,17 @@ Anonymous Proxy. Responsive web designed with HTML5 y CSS3.
 <a href="https://github.com/cvcastano/BEcodeTIFUL"><img img alt="Becodetiful logo" src="https://github.com/Adalab/project-promo-l-module-1-team-8/raw/master/src/images/logo_readme.png" height=50px /></a>      
 BEcodeTIFUL. Responsive web designed with HTML5 y CSS3 with which we introduce ourselves as a team into the world of development.  
 
-<!--
-### A little more about me:
-```javascript
-let Caro = {
-😄 pronouns: "she" | "her",
-  softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability" ]
-⚡ Fun fact: ... ,
-🔭 I’m currently working on developing my skills from home,
-🌱 I’m currently learning ... ,
-👯 I’m looking to collaborate on ... ,
-🤔 I’m looking for help with ... ,
-💬 Ask me about ... ,
-}
-```
--->
- ### Certifications  
+
+ ## Certifications  
 Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a>
 
 
-### GitHub Stats:
+## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cvcastano&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcastano&layout=compact&theme=radical)](https://github.com/cvcastano/github-readme-stats)
 
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/carolina-castano/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/cvcastano"><img alt="Instagram" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/cvcastano"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
