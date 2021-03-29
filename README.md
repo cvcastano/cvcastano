@@ -22,8 +22,8 @@ I'm currently searching for my first job as a ``front end developer``.
 ```javascript
 let Caro = {
 😄 pronouns: "she" | "her",
-  softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability" ]
-🔭 I’m currently working on: developing my skills from home
+🤹🏼 softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability" ]
+🔭 Currently working on: developing my skills from home,
 }
 ```
 <!--
