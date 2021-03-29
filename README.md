@@ -23,7 +23,8 @@ I'm currently searching for my first job as a ``front end developer``.
 let Caro = {
 😄 pronouns: "she" | "her",
 🤹🏼 softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability" ],
-⚙️ currently working on: "developing my skills from home",
+⚙️ currentlyWorkingOn: ["developing my skills from home"],
+🚧 iAmLookingFor: "inspiration to shape my personal brand",
 }
 ```
 <!--
