@@ -20,7 +20,7 @@ I'm currently searching for my first job as a ``front end developer``.
 
 ## A little more about me:
 ```javascript
-let Caro = {
+const Caro = {
 😄 pronouns: "she" | "her",
 🤹🏼 softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability"],
 ⚙️ currentlyWorkingOn: "developing my skills from home",
