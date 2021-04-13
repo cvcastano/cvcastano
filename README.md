@@ -22,9 +22,17 @@ I'm currently searching for my first job as a ``front end developer``.
 ```javascript
 let Caro = {
 😄 pronouns: "she" | "her",
-🤹🏼 softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability" ],
+🤹🏼 softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability"],
 ⚙️ currentlyWorkingOn: "developing my skills from home",
 🚧 iAmLookingFor: "inspiration to shape my personal brand",
+    }
+
+function nextJob() {
+    return {
+        position: 'Developer',
+        stack: [JavaScript, React, NodeJS, ExpressJS],
+        location: 'remote'
+    }
 }
 ```
 <!--
