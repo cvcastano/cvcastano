@@ -4,9 +4,9 @@ I’ve lived in many places, travelled broadly and worked in different environme
 That might be why I am an ``open-minded``, ``adaptable`` person who ``enjoys change`` for its opportunities and sees other opinions as new approaches.   
 I've studied teaching and administration and finance and, right now, I'm in the process of redirecting my professional career towards web development.   
 I'm currently searching for my first job as a ``front end developer``.
+___
 
-
-## Things I am learning and tools I am using: 
+# Things I am learning and tools I am using: 
 
 | 👩‍💻<br> ...Code... | 🛠️<br> ...Tools...| 📢<br> ...Communication...| 📐<br> ...Design...| 🐆<br> ...Work Methodology...| 🦄<br> ...Other... |
 | --- | ----- | ----------- | ----------| --------  | --------|
@@ -17,8 +17,9 @@ I'm currently searching for my first job as a ``front end developer``.
 ![](https://img.shields.io/badge/-     -31a8ff?style=flat-square&logo=      &logoColor=white)
 ![](https://img.shields.io/badge/-     -00eace?style=flat-square&logo=      &logoColor=white)
 -->
+___
 
-## A little more about me:
+# A little more about me:
 ```javascript
 const Caro = {
 😄 pronouns: "she" | "her",
@@ -42,8 +43,9 @@ function nextJob() {
 🤔 I’m looking for help with ... ,
 💬 Ask me about ... ,
 -->
+___
 
-## Some of my projects:
+# Some of my projects:
 <a href="https://github.com/cvcastano/look-like-loop-cards"><img img alt="look like loop logo" src="https://github.com/Adalab/project-promo-l-module-3-team-3/blob/dev/src/images/Logo_cards.png" height=50px /></a>  
 Look Like Loop Cards. Responsive app to make interactive customizable business cards. Refactoring of code, JavaScript to React, and development of my very first server. Based on a fully functional project with legacy code.  
 <a href="https://github.com/cvcastano/tree-huggers-cards"><img img alt="tree huggers logo" src="https://github.com/Adalab/project-promo-l-module-2-team-6/raw/master/src/images/logo-treehuggers.png" height=50px /></a>    
@@ -54,24 +56,24 @@ Rick & Morty Characters Finder. Responsive app with a list of Rick & Morty chara
 Anonymous Proxy. Responsive web designed with HTML5 y CSS3.   
 <a href="https://github.com/cvcastano/BEcodeTIFUL"><img img alt="Becodetiful logo" src="https://github.com/Adalab/project-promo-l-module-1-team-8/raw/master/src/images/logo_readme.png" height=50px /></a>      
 BEcodeTIFUL. Responsive web designed with HTML5 y CSS3 with which we introduce ourselves as a team into the world of development.  
+___
 
-
- ## Certifications  
+ # Certifications  
 Front-end Developer at <a href="https://adalab.es"><img alt="Adalab" src="https://adalab.es/wp-content/themes/adalab/assets/legacy/images/logo-adalab.svg" width="70px"/></a>
+___
 
-
-## GitHub Stats:
+# GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cvcastano&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcastano&layout=compact&theme=radical)](https://github.com/cvcastano/github-readme-stats)
+___
 
-
-## 📫 How to reach me:
+# 📫 How to reach me:
 <a href="https://www.linkedin.com/in/carolina-castano/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/cvcastano"><img alt="Instagram" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/cvcastano"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="mailto:carocastanocastillo@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/cvcastano"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
+___
 
 #### 📑 References:
 - The powerful [Shields.io](https://shields.io/) API and website.
