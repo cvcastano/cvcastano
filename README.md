@@ -31,7 +31,7 @@ function nextJob() {
     return {
         position: 'Developer',
         stack: [JavaScript, React, NodeJS, ExpressJS],
-        location: 'remote'
+        location: 'remote(beach somewhere)' 
     }
 }
 ```
