@@ -1,4 +1,4 @@
-## Hi there 👋, I am Carolina, Caro for my friends  <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
+## Hi there 👋, I am Caro  <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
 I’ve lived in many places, travelled broadly and worked in different environments.  
 That might be why I am an ``open-minded``, ``adaptable`` person who ``enjoys change`` for its opportunities and sees other opinions as new approaches.   
