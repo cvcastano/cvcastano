@@ -1,9 +1,13 @@
-## Hi there 👋, I am Caro  <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
+<!-- <a href="https://twitter.com/cvcastano"><img src="https://img.shields.io/twitter/follow/cvcastano.svg?style=social" align="right"/></a>
 ![](https://github.com/cvcastano/cvcastano/blob/main/reunion.gif)
+-->
+## Hi there 👋, I am Caro  
 I’ve lived in many places, travelled broadly and worked in different environments.  
 That might be why I am an ``open-minded``, ``adaptable`` person who ``enjoys change`` for its opportunities and sees other opinions as new approaches.   
 I've studied teaching and administration and finance and, right now, I'm in the process of redirecting my professional career towards web development.   
 I'm currently searching for my first job as a ``front end developer``.
+
+Wanna see my [portfolio](https://cvcastano.github.io/portfolio/)?
 ___
 
 # Things I am learning and tools I am using: 
