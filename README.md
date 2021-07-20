@@ -4,8 +4,8 @@
 ## Hi there 👋, I am Caro  
 I’ve lived in many places, travelled broadly and worked in different environments.  
 That might be why I am an ``open-minded``, ``adaptable`` person who ``enjoys change`` for its opportunities and sees other opinions as new approaches.   
-I've studied teaching and administration and finance and, right now, I'm in the process of redirecting my professional career towards web development.   
-I'm currently searching for my first job as a ``front end developer``.
+I've studied teaching and administration and finance and, right now, I'm redirecting my professional career towards web development.   
+I'm currently working as a ``developer`` in [Artefacto](http://artefacto-e2e.com/).
 
 Wanna see my [portfolio](https://cvcastano.github.io/portfolio/)?
 ___
@@ -28,9 +28,15 @@ ___
 const Caro = {
 😄 pronouns: "she" | "her",
 🤹🏼 softSkills: ["perseverance", "empathy", "sense of humour", "resilience", "adaptability"],
+    }
+
+Artefacto.push(new Developer("Caro Castaño"));
+
+```
+<!--
+
 ⚙️ currentlyWorkingOn: "developing my skills from home",
 🚧 iAmLookingFor: "inspiration to shape my personal brand",
-    }
 
 function nextJob() {
     return {
@@ -39,8 +45,7 @@ function nextJob() {
         location: 'remote(beach somewhere)' 
     }
 }
-```
-<!--
+
 ⚡ Fun fact: ... ,
 🌱 I’m currently learning: 
 👯 I’m looking to collaborate on ... ,
